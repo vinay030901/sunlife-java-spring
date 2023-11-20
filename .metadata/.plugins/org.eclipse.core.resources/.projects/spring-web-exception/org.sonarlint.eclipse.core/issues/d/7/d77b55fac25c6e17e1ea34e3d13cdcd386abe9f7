@@ -1,0 +1,8 @@
+
+Z	java:S106"+Replace this use of System.out by a logger.(¯ºĞşÿÿÿÿHRMAJORZ
+CODE_SMELL
+f	java:S125"<This block of commented-out lines of code should be removed.(‘êÈµHRMAJORZ
+CODE_SMELL
+v
+java:S1128"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿H!RMINORZ
+CODE_SMELL

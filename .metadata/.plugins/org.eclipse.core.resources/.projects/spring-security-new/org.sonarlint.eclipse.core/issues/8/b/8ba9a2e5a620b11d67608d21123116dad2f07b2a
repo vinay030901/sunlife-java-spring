@@ -1,0 +1,15 @@
+
+b	java:S106	"+Replace this use of System.out by a logger.(ÆŠ³»üÿÿÿÿ8¬©Ùµ1HŠ#RMAJORZ
+CODE_SMELL
+s
+java:S6437
+"6Revoke and change this password, as it is compromised.(©İ¦Ûøÿÿÿÿ8³ªµÙµ1H#RBLOCKERZVULNERABILITY
+b	java:S106
+"+Replace this use of System.out by a logger.(©İ¦Ûøÿÿÿÿ8³ªµÙµ1HŒ#RMAJORZ
+CODE_SMELL
+]	java:S106"+Replace this use of System.out by a logger.(·¢‡Ÿ8³ªµÙµ1H#RMAJORZ
+CODE_SMELL
+n
+java:S6437"6Revoke and change this password, as it is compromised.(·¢‡Ÿ8³ªµÙµ1H#RBLOCKERZVULNERABILITY
+s
+java:S6437	"6Revoke and change this password, as it is compromised.(ÆŠ³»üÿÿÿÿ8¬©Ùµ1H‹#RBLOCKERZVULNERABILITY

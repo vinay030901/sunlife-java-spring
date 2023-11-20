@@ -1,0 +1,20 @@
+
+l	java:S125"<This block of commented-out lines of code should be removed.(Í“õ´ÿÿÿÿÿH¡RMAJORZ
+CODE_SMELL
+V	java:S106"+Replace this use of System.out by a logger.(š‰íH¤RMAJORZ
+CODE_SMELL
+g	java:S125."<This block of commented-out lines of code should be removed.(—Æá×H«RMAJORZ
+CODE_SMELL
+V	java:S106("+Replace this use of System.out by a logger.(š‰íH©RMAJORZ
+CODE_SMELL
+l	java:S125!"<This block of commented-out lines of code should be removed.(×¨à€øÿÿÿÿH§RMAJORZ
+CODE_SMELL
+V	java:S106*"+Replace this use of System.out by a logger.(¿ÀàœHªRMAJORZ
+CODE_SMELL
+d
+java:S3878"8Remove this array creation and simply pass the elements.(æ´½ªH£RMINORZ
+CODE_SMELL
+V	java:S106"+Replace this use of System.out by a logger.(¿ÀàœH¥RMAJORZ
+CODE_SMELL
+V	java:S106%"+Replace this use of System.out by a logger.(ö—çüH¦RMAJORZ
+CODE_SMELL

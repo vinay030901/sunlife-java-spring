@@ -1,0 +1,13 @@
+
+y
+java:S4684""@Replace this persistent entity with a simple POJO or DTO object.(–Øô£8ê†Ê¨∂1Há+RCRITICALZVULNERABILITY
+y	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(∂–„ÁHà+RMINORZ
+CODE_SMELL
+y	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Øô£Hâ+RMINORZ
+CODE_SMELL
+y
+java:S46849"@Replace this persistent entity with a simple POJO or DTO object.(ùˆøÖ8ê†Ê¨∂1Hä+RCRITICALZVULNERABILITY
+~	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’øÑö˝ˇˇˇˇHã+RMINORZ
+CODE_SMELL
+y
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(∂–„Á8ê†Ê¨∂1Hå+RCRITICALZVULNERABILITY

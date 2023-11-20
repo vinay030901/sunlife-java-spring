@@ -1,0 +1,6 @@
+
+s
+java:S2259"NA "NullPointerException" could be thrown; "getJdbcTemplate()" can return null.(ø‘ß›H•+RMAJORZBUG
+o
+java:S3878"CDisambiguate this call by either casting as "Object" or "Object[]".(ø‘ß›H˜+RMINORZ
+CODE_SMELL

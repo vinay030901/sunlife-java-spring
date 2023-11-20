@@ -1,0 +1,10 @@
+
+a
+java:S1854"5Remove this useless assignment to local variable "u".(¡Á¯ÂHô-RMAJORZ
+CODE_SMELL
+R
+java:S1481"&Remove this unused "u" local variable.(¡Á¯ÂHõ-RMINORZ
+CODE_SMELL
+e
+java:S2696"6Make the enclosing method "static" or remove this set.(¡Á¯ÂH÷-RCRITICALZ
+CODE_SMELL

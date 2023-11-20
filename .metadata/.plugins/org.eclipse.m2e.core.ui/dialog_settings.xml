@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Administrator\Downloads\spring-api-gateway-emp"/>
+			<item value="C:\Users\Administrator\Downloads\emp-micro-mvc-orm"/>
+			<item value="C:\Users\Administrator\Downloads\emp-mirco-client"/>
+			<item value="C:\Users\Administrator\Downloads\emp-mirco-service"/>
+			<item value="C:\Users\Administrator\Downloads\emp-mirco-registry\emp-mirco-registry\pom.xml"/>
+			<item value="C:\Users\Administrator\Downloads\emp-mirco-registry\emp-mirco-registry"/>
+			<item value="C:\Users\Administrator\Downloads\boot-rabbit (2)\boot-rabbit"/>
+			<item value="C:\Users\Administrator\Downloads\boot-rabbit\boot-rabbit"/>
+			<item value="C:\Users\Administrator\Downloads\spring-security (1)\spring-security"/>
+			<item value="C:\Users\Administrator\Downloads\spring-security-new"/>
+			<item value="C:\Users\Administrator\Downloads\spring-security\spring-security"/>
+			<item value="C:\Users\Administrator\Downloads\spring-core"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

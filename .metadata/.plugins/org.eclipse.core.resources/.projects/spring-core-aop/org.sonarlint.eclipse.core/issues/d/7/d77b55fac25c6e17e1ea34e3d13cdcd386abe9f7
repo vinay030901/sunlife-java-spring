@@ -1,0 +1,9 @@
+
+[	java:S106"+Replace this use of System.out by a logger.(Ο·„°ϊÿÿÿÿHθRMAJORZ
+CODE_SMELL
+—
+java:S1128"_Remove this unused import 'org.springframework.context.support.ClassPathXmlApplicationContext'.(•ΛΫόÿÿÿÿ8•®τι³1HήRMINORZ
+CODE_SMELL
+k
+java:S1128	"3Remove this unused import 'com.models.WelcomeImpl'.(Ε½Λ ώÿÿÿÿ8μ„φι³1HμRMINORZ
+CODE_SMELL

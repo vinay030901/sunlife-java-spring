@@ -1,0 +1,6 @@
+
+‹
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RestController'.(±íş¡şÿÿÿÿ8Ø‡¾Öµ1HÌ!RMINORZ
+CODE_SMELL
+€	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ã¾8éé§Öµ1Hº!RMINORZ
+CODE_SMELL
